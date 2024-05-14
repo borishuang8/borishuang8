@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi, my name is Boris, an <a href="https://www.linkedin.com/in/borishuang/">IT Professional</a> 👋
+## Projects:
+#
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **borishuang8/borishuang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
